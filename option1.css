@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(50, 17, 3);
+    text-align: right;
+    font-family:fantasy;
+}
+a{
+    text-decoration: none; 
+      color: rgb(150, 50, 50)
+}
+ nav li:hover{
+    text-decoration: underline;
+    color:cyan;
+}
+header{
+    color:rgb(150, 50, 50);
+    
+}
+h2{
+    color:rgb(150, 50, 50);
+}
+table, th, td{
+    color:rgb(150, 50, 50);
+    border: .1em solid;
+    border-collapse: collapse;
+}
+article h4, p{
+    color:rgb(150, 50, 50);
+    
+}
+article img{
+    margin-left: 70%;
+}
